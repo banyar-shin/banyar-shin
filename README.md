@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Lightning.
-- 👀 I’m interested in gaming, programming, developing games.
-- 🌱 I’m currently a sophomore in college, learning data structures with C++.
+- 👋 Hello, I’m Banyar.
+- 👀 I’m interested in programming, game development, web development, and web design right now.
+- 🌱 I’m currently a junior in college.
 - 💞️ I’m looking to collaborate on entry-level programming, as I am still learning.
-- 📫 How to reach me: easiest way is discord, Lightning#5848, feel free to add me.
+- 📫 How to reach me: contact me through email: banyar.minshin@gmail.com.
 
 <!---
-lightningv13/lightningv13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+banrawr/banrawr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
