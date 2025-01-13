@@ -4,7 +4,6 @@ Hey! Thanks for visiting my GitHub.
 
 Currently, I am...
 - 📚 Studying for my bachelor's degree in computer science at [San Jose State University](https://www.sjsu.edu/)
-- 🧑‍💻 Working on a SaaS project: [Gratus](https://www.gratus.io/)
 
 My main focus currently lies in...
 - 💼 Looking for software engineering internships
