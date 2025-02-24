@@ -15,8 +15,8 @@ On the side, I am...
 - 🛠️ Building fun, useful, and innovative software/tools to improve my workflow
 
 #### Connect with me!
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banyar-shin/)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://banyar.dev)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banyar-shin/)
 [![Devpost Badge](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://www.devpost.com/banyar-shin)
 
 #### Best way to contact me:
