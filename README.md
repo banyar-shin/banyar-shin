@@ -12,7 +12,7 @@ My main focus currently lies in...
 
 On the side, I am...
 - 💻 Giving back to the community by participating in hackathons as a mentor/judge
-- 🛠️ Building fun, useful, and innovative software and tools to improve my workflow
+- 🛠️ Building fun, useful, and innovative software/tools to improve my workflow
 
 #### Connect with me!
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banyar-shin/)
