@@ -3,15 +3,15 @@
 Hey! Thanks for visiting my GitHub.
 
 Currently, I am...
-- 📚 Studying for my bachelor's degree in computer science at [San Jose State University](https://www.sjsu.edu/)
+- 📚 Pursuing my bachelor's degree in computer science at [San Jose State University](https://www.sjsu.edu/)
 
 My main focus currently lies in...
-- 💼 Looking for software engineering internships
-- 🧑‍💻 Practicing problems for coding interviews
+- 🧑‍💻 Equipping myself with the latest tools and technologies to stay up-to-date 
+- 💼 Enhancing my knowledge in up-and-coming cutting-edge fields like AI and XR
 
 On the side, I am...
-- 💻 Learning a new programming language: [Rust](https://www.rust-lang.org/)
-- 🛠️ Building fun, small-scale tools and software to improve my workflow
+- 💻 Giving back to the community by participating in hackathons as a mentor/judge
+- 🛠️ Building fun, useful, and innovative software and tools to improve my workflow
 
 #### Connect with me!
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banyar-shin/)
