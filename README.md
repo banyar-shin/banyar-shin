@@ -3,8 +3,7 @@
 Hey! Thanks for visiting my GitHub.
 
 Currently, I am...
-- 📚 Pursuing my bachelor's degree in computer science at [San Jose State University](https://www.sjsu.edu/)
-- 💼 Building an infinite game with sentient NPCs at [ego (YC W24)](https://www.egoai.com)
+- 💼 Building human-like AI at [ego (YC W24)](https://www.egoai.com)
 
 My main focus currently lies in...
 - 🧑‍💻 Equipping myself with the latest tools and technologies to stay up-to-date 
