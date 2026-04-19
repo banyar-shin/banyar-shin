@@ -106,6 +106,6 @@
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost" />
   </a>
   <a href="mailto:banyar.minshin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-1F9D55?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
