@@ -27,19 +27,19 @@
 - Designing tools, workflows, and personal systems that reduce friction from idea to execution
 - Staying hands-on with new models, rapid prototyping stacks, and developer tooling
 
-## GitHub Snapshot
+## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=banyar-shin&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="banyar-shin's Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=banyar-shin&theme=onedark&hide_border=true" alt="banyar-shin's Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banyar-shin&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="banyar-shin's Top Languages" />
-</p>
+</p> -->
 
 ## Featured Projects
 
