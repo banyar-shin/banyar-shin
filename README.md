@@ -33,13 +33,13 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=banyar-shin&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&custom_title=Banyar%20Shin%27s%20GitHub%20Stats"
+        src="https://github-readme-stats.vercel.app/api?username=banyar-shin&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&text_color=ffffff&custom_title=Banyar%20Shin%27s%20GitHub%20Stats"
         alt="Banyar Shin's GitHub stats"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=banyar-shin&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent&custom_title=Most%20Used%20Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=banyar-shin&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent&text_color=ffffff&custom_title=Most%20Used%20Languages"
         alt="Top languages"
       />
     </td>
@@ -53,7 +53,7 @@
     <td>
       <a href="https://github.com/banyar-shin/DreamScapes">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=banyar-shin&repo=DreamScapes&hide_border=true&theme=transparent"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=banyar-shin&repo=DreamScapes&hide_border=true&theme=transparent&text_color=ffffff"
           alt="DreamScapes"
         />
       </a>
@@ -61,7 +61,7 @@
     <td>
       <a href="https://github.com/banyar-shin/GreenSpace">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=banyar-shin&repo=GreenSpace&hide_border=true&theme=transparent"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=banyar-shin&repo=GreenSpace&hide_border=true&theme=transparent&text_color=ffffff"
           alt="GreenSpace"
         />
       </a>
@@ -71,7 +71,7 @@
     <td>
       <a href="https://github.com/banyar-shin/TruckrZzz-iOS-App">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=banyar-shin&repo=TruckrZzz-iOS-App&hide_border=true&theme=transparent"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=banyar-shin&repo=TruckrZzz-iOS-App&hide_border=true&theme=transparent&text_color=ffffff"
           alt="TruckrZzz-iOS-App"
         />
       </a>
@@ -79,7 +79,7 @@
     <td>
       <a href="https://github.com/banyar-shin/carbon-footprint-tracker">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=banyar-shin&repo=carbon-footprint-tracker&hide_border=true&theme=transparent"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=banyar-shin&repo=carbon-footprint-tracker&hide_border=true&theme=transparent&text_color=ffffff"
           alt="carbon-footprint-tracker"
         />
       </a>
