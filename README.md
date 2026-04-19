@@ -29,22 +29,17 @@
 
 ## GitHub Snapshot
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=banyar-shin&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&icon_color=ffffff&text_color=ffffff&rank_icon=github&custom_title=Banyar%20Shin%27s%20GitHub%20Stats"
-        alt="Banyar Shin's GitHub stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=banyar-shin&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent&title_color=ffffff&text_color=ffffff&custom_title=Most%20Used%20Languages"
-        alt="Top languages"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=banyar-shin&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="banyar-shin's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=banyar-shin&theme=onedark&hide_border=true" alt="banyar-shin's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banyar-shin&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="banyar-shin's Top Languages" />
+</p>
 
 ## Featured Projects
 
