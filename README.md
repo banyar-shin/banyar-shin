@@ -37,47 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banyar-shin&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="banyar-shin's Top Languages" />
 </p> -->
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/banyar-shin/DreamScapes">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=banyar-shin&repo=DreamScapes&hide_border=true&theme=transparent&title_color=ffffff&icon_color=ffffff&text_color=ffffff"
-          alt="DreamScapes"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/banyar-shin/GreenSpace">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=banyar-shin&repo=GreenSpace&hide_border=true&theme=transparent&title_color=ffffff&icon_color=ffffff&text_color=ffffff"
-          alt="GreenSpace"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/banyar-shin/TruckrZzz-iOS-App">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=banyar-shin&repo=TruckrZzz-iOS-App&hide_border=true&theme=transparent&title_color=ffffff&icon_color=ffffff&text_color=ffffff"
-          alt="TruckrZzz-iOS-App"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/banyar-shin/carbon-footprint-tracker">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=banyar-shin&repo=carbon-footprint-tracker&hide_border=true&theme=transparent&title_color=ffffff&icon_color=ffffff&text_color=ffffff"
-          alt="carbon-footprint-tracker"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## Beyond the code
 
 - Mentoring and judging hackathons
