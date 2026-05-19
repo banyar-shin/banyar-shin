@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  Currently building human-like AI at <a href="https://www.egoai.com">ego</a>.
-</p>
-
-<p align="center">
   <a href="https://www.banyar.dev/">Website</a>
   ·
   <a href="https://www.linkedin.com/in/banyar-shin/">LinkedIn</a>
